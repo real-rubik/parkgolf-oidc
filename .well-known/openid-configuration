@@ -1,0 +1,13 @@
+{
+  "issuer": "https://real-rubik.github.io/parkgolf-oidc",
+  "jwks_uri": "https://real-rubik.github.io/parkgolf-oidc/.well-known/jwks.json",
+  "subject_types_supported": [
+    "public"
+  ],
+  "response_types_supported": [
+    "id_token"
+  ],
+  "id_token_signing_alg_values_supported": [
+    "RS256"
+  ]
+}

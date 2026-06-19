@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "parkgolf-naver-key-1",
+      "n": "8b0OiWbAncqMXQqVFHKZh3dsWbFphGVy87wsflt-sQ0EgrRCfAEiADkqEyY93COfq-Y8mnQTBZVU3oZenxvm-KZ9kOHt0SXXVv0eCRatF4TgAQuEHXsbqU7q8iauv3Egswqp694BKnx9D8paGWCl5Zfx0V_dyNKhSiRv2sSdZMzNEXwtphOuatml_P1X8eke45Fg0re-BJan3H1uGwThmg-u1wQplJfbFg_ygklC8uid8KFnPjceBq7TmLRw4uiaIaupoY2EMdLiU_zJlteNRzhszP1iBlTp4F_qED3M5rLqYaTUJPAzuVx5qkn6d1dWyBHdTi6CbsZDR5hRWrB0Sw",
+      "e": "AQAB"
+    }
+  ]
+}
